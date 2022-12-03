@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ultrasamad
 - 👀 I know about VueJS, JavaScript, Flutter, and Laravel.
-- 🌱 I have interest in Rust, Python and Kotlin.
+- 🌱 I'm familiar with ReactJS, Rust, Python and Kotlin.
 
 
 <!---
