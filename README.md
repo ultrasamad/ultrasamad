@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ultrasamad
-- 👀 I have experience working with VueJS, TypeScript, NodeJS, and Laravel.
-- 🌱 I'm familiar with ReactJS, Flutter, and Python.
+- 👀 I have experience working with **VueJS/NuxtJS**, **ReactJS/React Native**, **TypeScript/NodeJS**, and **PHP/Laravel**.
+- 🌱 I'm familiar with **Kotlin/Jetpack Compose**, **Dart/Flutter**, and **Python**.
 
 
 <!---
